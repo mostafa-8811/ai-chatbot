@@ -15,4 +15,4 @@ By routing queries through a tiered pipeline, the system handles common intents 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/mostafa-8811/hybrid-ai-chatbot.git](https://github.com/mostafa-8811/hybrid-ai-chatbot.git)
-   cd hybrid-ai-chatbot
+   cd ai-chatbot
